@@ -4,3 +4,5 @@
 
 # delete some file for it 
 ! cd ./256_ObjectCategories && rm -r ./056.dog/greg && rm -r ./198.spider/RENAME2
+
+python pictureclassifier.py
